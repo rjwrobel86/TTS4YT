@@ -1,3 +1,3 @@
 # Text To Speech For Youtube
 
-Takes product descriptions from a last of websites and converts them ot high-quality audio with Amazon Web Services' Polly.
+Downloads inventory feed, downloads texts from individual item pages (VDPs), locates product descriptions, and creates high-quality audio versions with Amazon Web Services' Polly.
